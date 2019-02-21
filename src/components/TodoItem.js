@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class TodoList extends Component {
+export default class TodoItem extends Component {
   render() {
     return (
       <div>
-        hello from todolist component
+        hello from todoitem component
       </div>
     )
   }
