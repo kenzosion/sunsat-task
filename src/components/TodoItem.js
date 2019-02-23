@@ -3,9 +3,11 @@ import React, { Component } from 'react'
 export default class TodoItem extends Component {
   render() {
     return (
-      <div>
-        hello from todoitem component
-      </div>
+      <React.Fragment>
+        <div>
+          hello from TodoItem
+        </div>
+      </React.Fragment>
     )
   }
 }

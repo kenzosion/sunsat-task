@@ -5,8 +5,6 @@ import TodoList from"./components/TodoList";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import uuid from 'uuid';
 
-import './App.css';
-
 class App extends Component {
   render() {
     return (
